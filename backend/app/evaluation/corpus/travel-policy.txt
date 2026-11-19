@@ -1,0 +1,5 @@
+Sample Travel and Expense Policy (synthetic document for evaluation).
+
+Business travel must be approved by a manager before booking. Employees are reimbursed for airfare in economy class and for reasonable lodging. The daily meal allowance for business travel is 75 dollars, and alcohol is not reimbursable. Receipts are required for every expense above 25 dollars.
+
+Employees must submit an expense report within 30 days after the trip ends. Reports submitted later than 30 days may be rejected by the finance team. Personal car mileage is reimbursed at the standard company rate.

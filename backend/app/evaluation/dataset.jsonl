@@ -1,0 +1,9 @@
+{"_meta": {"version": "v1", "description": "Small synthetic starter set over the bundled sample corpus. Extend with your own documents and questions."}}
+{"id": "q1", "type": "answerable", "question": "What is the daily meal allowance for business travel?", "expected_docs": ["travel-policy.txt"], "evidence_keywords": ["meal", "75"], "expected_points": ["75"], "should_abstain": false}
+{"id": "q2", "type": "answerable", "question": "How soon must expense reports be submitted after a trip?", "expected_docs": ["travel-policy.txt"], "evidence_keywords": ["expense report", "30 days"], "expected_points": ["30 days"], "should_abstain": false}
+{"id": "q3", "type": "answerable", "question": "How many days of annual leave do full-time employees receive?", "expected_docs": ["leave-policy.txt"], "evidence_keywords": ["annual leave", "24"], "expected_points": ["24"], "should_abstain": false}
+{"id": "q4", "type": "answerable", "question": "How long must passwords be according to the IT security policy?", "expected_docs": ["it-security-policy.txt"], "evidence_keywords": ["password", "14 characters"], "expected_points": ["14 characters"], "should_abstain": false}
+{"id": "q5", "type": "answerable", "question": "Within how many hours must a security incident be reported?", "expected_docs": ["it-security-policy.txt"], "evidence_keywords": ["incident", "4 hours"], "expected_points": ["4 hours"], "should_abstain": false}
+{"id": "q6", "type": "absent", "question": "What is the company policy on cryptocurrency investments?", "expected_docs": [], "evidence_keywords": [], "expected_points": [], "should_abstain": true}
+{"id": "q7", "type": "absent", "question": "Who is the CEO's favorite sports team?", "expected_docs": [], "evidence_keywords": [], "expected_points": [], "should_abstain": true}
+{"id": "q8", "type": "ambiguous", "question": "What is the limit?", "expected_docs": [], "evidence_keywords": [], "expected_points": [], "should_abstain": true}

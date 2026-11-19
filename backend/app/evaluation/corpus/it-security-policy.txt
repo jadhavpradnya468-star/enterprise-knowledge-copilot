@@ -1,0 +1,5 @@
+Sample IT Security Policy (synthetic document for evaluation).
+
+Passwords must be at least 14 characters long and must not be reused across systems. Multi-factor authentication is mandatory for all remote access and for administrator accounts.
+
+Any suspected security incident must be reported to the security team within 4 hours of discovery. Employees must not attempt to investigate or remediate incidents on their own. Company laptops must use full-disk encryption and install operating system updates within 14 days of release.
